@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Swaraj Jaiswal</h1>
 <h3 align="center">An enthusiastic Web Dev learner striving for continuous improvement.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swarajjaiswal&label=Profile%20views&color=0e75b6&style=flat" alt="swarajjaiswal" /> </p>
-
-
-
 - 🌱 I’m currently learning **Next.Js**
 
 - 📫 How to reach me **swaraj93310@gmail.com**

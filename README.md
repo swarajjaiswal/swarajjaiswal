@@ -3,7 +3,7 @@
 
 
 <br/>
-- 🌱 I’m currently learning **Next.Js**
+- 🌱 I’m currently learning *Next.Js*
 
 
 

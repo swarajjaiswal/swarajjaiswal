@@ -49,15 +49,15 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
   </a> 
 </p>
-
+</br>
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swarajjaiswal&show_icons=true&locale=en&layout=compact" alt="swarajjaiswal" />
 </div>
-
+</br>
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=swarajjaiswal&show_icons=true&locale=en" alt="swarajjaiswal" />
 </div>
-
+</br>
 <div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=swarajjaiswal&" alt="swarajjaiswal" />
 </div>

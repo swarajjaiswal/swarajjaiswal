@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swaraj Jaiswal</h1>
-<h3 align="center">An enthusiastic Web Dev learner striving for continuous improvement.</h3>
+<h3 align="center">An enthusiastic Full Stack Web Developer from India striving for continuous improvement.</h3>
 
 
 <br/>

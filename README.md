@@ -65,6 +65,11 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
   </a> 
     &nbsp;
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/>
+</a>
+&nbsp;
+
 </p>
 </br>
 <div>

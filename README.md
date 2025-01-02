@@ -69,7 +69,14 @@
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/>
 </a>
 &nbsp;
-
+  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github-actions" width="40" height="40"/>
+</a>
+&nbsp;
+<a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" width="40" height="40"/>
+</a>
+&nbsp;
 </p>
 </br>
 <div>

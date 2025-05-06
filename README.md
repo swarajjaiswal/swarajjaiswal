@@ -79,15 +79,14 @@
 &nbsp;
 </p>
 </br>
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swarajjaiswal&show_icons=true&locale=en&layout=compact" alt="swarajjaiswal" />
+<div style="display: flex; align-items: center; ">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swarajjaiswal&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=swarajjaiswal&show_icons=true&locale=en" alt="GitHub Stats" style="height: 200px;" />
 </div>
+
+
 </br>
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=swarajjaiswal&show_icons=true&locale=en" alt="swarajjaiswal" />
-</div>
-</br>
-<div>
+<!-- <div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=swarajjaiswal&" alt="swarajjaiswal" />
-</div>
+</div> -->
 

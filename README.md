@@ -79,7 +79,7 @@
 &nbsp;
 </p>
 </br>
-<div style="display: flex; align-items: center; ">
+<div style="display: flex; align-items: center; gap:30px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swarajjaiswal&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="height: 200px;" />
   <img src="https://github-readme-stats.vercel.app/api?username=swarajjaiswal&show_icons=true&locale=en" alt="GitHub Stats" style="height: 200px;" />
 </div>
